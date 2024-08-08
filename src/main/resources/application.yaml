@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: "Lonelysoul_Sample"
+  profiles:
+    active: "dev"
+
+path:
+  resource-folder: "src/main/resources"
+
+apiPrefix: "/api"
