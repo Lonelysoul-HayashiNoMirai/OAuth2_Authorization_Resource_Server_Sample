@@ -1,4 +1,4 @@
-# CommandCenterAPI
+# OAuth2_Authorization_Resource_Server_Sample
 
 
 
@@ -15,7 +15,7 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](http://wsggit01/puc01165/commandcenterapi/-/settings/integrations)
+- [ ] [Set up project integrations](https://github.com/Lonelysoul-HayashiNoMirai/OAuth2_Authorization_Resource_Server_Sample/-/settings/integrations)
 
 ## Collaborate with your team
 
